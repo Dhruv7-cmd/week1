@@ -1,4 +1,4 @@
-# Week 1 – AI & ML Internship
+# Week 1 – PYTHON / AI & ML 
 
 This repository contains my Week 1 daily progress.
 
