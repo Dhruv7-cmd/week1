@@ -1,14 +1,6 @@
-# Week 1 – Day 1
+# Week 1 – AI & ML Internship
 
-This project covers:
-- Python environment setup
-- Git and GitHub basics
-- GenAI overview
+This repository contains my Week 1 daily progress.
 
-## Week 1 - Day 2 
-
-- Created proper Python project structure using src and tests folders.
-- Wrote and executed the first Python program.
-- Learned Python variables, data types, and print statements.
-- Implemented basic decision-making using if–else.
-
+- Day 1: Git, GitHub, environment setup, GenAI basics
+- Day 2: Python basics, project structure, logic (if–else)
